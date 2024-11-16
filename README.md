@@ -16,10 +16,6 @@ The system includes the following categories for the books:
 - Languages
 - History
 
-## Getting Started
 
-To use this system, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YourUsername/Library-Management-System-C.git
+
